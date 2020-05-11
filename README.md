@@ -5,7 +5,7 @@
 <body>
 <center><h1>Devjam 3.0</h1></center>
 <b>ABSTRACT SUBMISSION PROBLEM: </b>An android app to build to sumarise and manage you daily expenditures along with your income.
-<b>SOLUTION: </b>An user friendly and easy to use app to be made.
+<b><br>SOLUTION: </b>An user friendly and easy to use app to be made.
 <h3>App will have following basic Features:</h3>
 <ul>
 <li>Track daily expenditures.</li>
